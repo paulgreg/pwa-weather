@@ -1,0 +1,31 @@
+{
+    "name": "Weather",
+    "short_name": "Weather",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "description": "A simple weather app",
+    "icons": [
+        {
+            "src": "./cloud-64x.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./cloud-192x.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./cloud-512x.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./cloud.svg",
+            "sizes": "any",
+            "type": "image/svg"
+        }
+    ]
+}
